@@ -9,3 +9,8 @@ build 后，生成的 HookEntry_Impl 中 modulePackageName 仍然为根据规则
 `app/build/generated/ksp/debug/kotlin/five/ec1cff/demo/hook/HookEntry_Impl.kt`
 
 ![](1.png)
+
+jadx 反编译如下：
+
+![](2.png)
+
