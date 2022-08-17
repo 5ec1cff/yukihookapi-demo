@@ -14,3 +14,6 @@ jadx 反编译如下：
 
 ![](2.png)
 
+如果 modulePackageName 为常量字符串，则没有问题：
+
+![](3.png)

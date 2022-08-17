@@ -16,4 +16,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "demo"
 include(":app")
-include(":hidden_api_stub")
